@@ -1,80 +1,52 @@
-# Hi there, I'm Md Minhajul Islam! 👋
+# Hi 👋, I’m Md Minhajul Islam (minhajul)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/minhaj_cse?style=social)](https://twitter.com/minhaj_cse)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minhajul52/)](https://www.linkedin.com/in/minhajul52/)
-[![Website Badge](https://img.shields.io/badge/Website-minhajul.info-47b8e0?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.minhajul.info/)](https://www.minhajul.info/)
+## 🚀 About Me  
+I’m a full-stack Software Developer with a strong foundation in **PHP/Laravel, JavaScript, Node.js, Golang**, and **Next.js**, and practical experience working with **AWS, Docker, Terraform** and scalable architectures.  
+I enjoy building robust backend systems, scalable cloud infrastructure, and performant web applications.  
 
-I am a passionate **Full Stack Developer** and **Cloud Enthusiast** specializing in building robust web applications and scalable infrastructure. I have strong expertise in the **PHP (Laravel)** and **JavaScript (Node.js, Next.js)** ecosystems, with a growing focus on **DevOps** practices using **AWS**, **Docker**, and **Terraform**.
+- 🌍 Based in **Dhaka, Bangladesh** — open to **remote roles** or **relocation**.  
+- 🔭 Currently exploring opportunities in backend development, cloud infrastructure, and full-stack engineering.  
+- 💡 Strong interest in distributed systems, scalable microservices and CI/CD automation.  
 
----
+## 🧰 My Tech Stack & Skills  
 
-### 🚀 Career Status: **Open to Work**
+| Category | Skills / Tools |
+|---------|----------------|
+| Languages | PHP, JavaScript (ES6+), TypeScript, Go, Python |
+| Frameworks / Platforms | Laravel, Next.js, Node.js, Django |
+| DevOps / Cloud | AWS (EC2, S3, CloudFront, IAM, KMS, Lambda), Docker, Terraform, Redis, PostgreSQL, MySQL |
+| Infrastructure & Architecture | Microservices, Distributed Queues, Load Balancing, Auto-Scaling, Observability (Prometheus / Grafana / OpenTelemetry) |
+| Testing & Quality | PHPUnit (for PHP), Unit & Integration Testing, CI/CD pipelines |
+| Other | REST APIs, GraphQL, S3, Packer, CloudFormation / Terraform, Security & Cost Optimization |
 
-I am currently actively looking for new opportunities as a **Software Engineer**. I am eager to apply my skills in a challenging environment where I can drive impact and continue learning.
+## 💼 Notable Projects & Work  
 
-* 🌍 **Willing to Relocate:** Yes
-* 💻 **Remote Work:** Open to remote roles globally
-* 📍 **Current Location:** Dhaka, Bangladesh
+Here are some of the repositories I’m most proud of — a mix of infrastructure tooling, cloud automation, and web apps:
 
----
+- **[`docker-cleaner`](https://github.com/minhajul/docker-cleaner)** — A TUI tool in Go (using BubbleTea) to clean up Docker images and containers, useful for keeping dev environments tidy and efficient.  
+- **[`aws-machine-image-using-packer`](https://github.com/minhajul/aws-machine-image-using-packer)** — Packer configuration to build pre-configured AMIs with PHP + Nginx, for faster provisioning of environments.  
+- **[`learning-terraform`](https://github.com/minhajul/learning-terraform)** — A set of Terraform configurations to spin up AWS infrastructure (VPC, subnets, security groups, EC2, autoscaling, networking), reflecting my infra-as-code skills.  
+- **[`laravel-grafana`](https://github.com/minhajul/laravel-grafana)** — A monitoring setup for Laravel apps using Grafana, Prometheus and Loki, showing my focus on observability and production-grade deployments.  
+- **[`download-s3-bucket`](https://github.com/minhajul/download-s3-bucket)** — A small Node.js utility to download and zip entire S3 buckets — a handy tool for backups or migrations.  
 
-### 🛠️ Tech Stack
+*(Feel free to check out more in my repo list — I’m always adding new side projects and tools.)*
 
-**Languages & Frameworks**
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+## ✅ What I’m Looking For  
 
-**Frontend & UI**
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/alpinejs-2D3446?style=for-the-badge&logo=alpine.js&logoColor=white)
+- A challenging **full-stack or backend engineering** role where I can leverage my skills in cloud, infrastructure-as-code and web development.  
+- A team that values **scalability, clean architecture, and maintainable code**.  
+- Open to **remote work** or **relocation** internationally.  
+- Excited to collaborate, mentor (or be mentored), and grow with a dynamic, cross-disciplinary team.  
 
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+## 📫 How to Reach Me  
 
----
+- 🌐 [Website / Portfolio — minhajul.info](https://www.minhajul.info)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/minhajul52)  
+- 🐦 [Twitter: @minhaj_cse](https://twitter.com/minhaj_cse)  
 
-### 🔭 Featured Projects
-
-Here are a few projects that showcase my skills in development and infrastructure:
-
-* **[Laravel Grafana Monitoring](https://github.com/minhajul/laravel-grafana)**
-    * *Stack:* Laravel, Grafana, Prometheus, Loki, Docker
-    * *About:* A complete monitoring stack for Laravel applications to track performance and logs in real-time.
-
-* **[Docker Cleaner (TUI)](https://github.com/minhajul/docker-cleaner)**
-    * *Stack:* Go, BubbleTea
-    * *About:* A terminal user interface tool built with Go to easily clean up unused Docker images and containers.
-
-* **[Personal Blog Engine](https://github.com/minhajul/blog)**
-    * *Stack:* Laravel, Livewire, Alpine.js, Tailwind CSS
-    * *About:* A minimal and fast blogging platform designed for personal use.
-
-* **[AWS AMI with Packer](https://github.com/minhajul/aws-machine-image-using-packer)**
-    * *Stack:* Packer, HCL, Nginx, PHP
-    * *About:* Automated creation of preconfigured Amazon Machine Images (AMI) for rapid deployment.
+> “Good code is its own best documentation.”  
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minhajul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhajul&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
-### 📫 Get in Touch
-
-If you have an opportunity that matches my skills, or just want to discuss tech, feel free to reach out!
-
-* **Portfolio:** [minhajul.info](https://www.minhajul.info/)
-* **LinkedIn:** [in/minhajul52](https://www.linkedin.com/in/minhajul52/)
-* **Twitter:** [@minhaj_cse](https://twitter.com/minhaj_cse)
+Thanks for stopping by 👇  
+If you like what you see — feel free to connect or drop me a message 😊  
