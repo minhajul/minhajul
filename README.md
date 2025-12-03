@@ -2,6 +2,10 @@
 
 I am a full-stack software engineer with advanced knowledge in DevOps. I specialize in developing scalable applications using **PHP/Laravel/Livewire, Python/Django, Javascript, Node.js** and **Next.js**. I have hands-on experience with DevOps tools, including **Docker, Kubernetes, Pulumi, Terraform, Grafana, prometheus, Ansible** to streamline development, deployment, and scaling processes on **AWS**. My experience also includes designing distributed systems and microservices.
 
+### 🚀 Career Status: **Open to Work**
+
+I am actively exploring opportunities as a **Full-Stack Engineer, Backend Developer, or DevOps Engineer**. I’m eager to contribute my skills in a challenging environment where I can create meaningful impact while continuously learning and growing.
+
 * 🌍 **Willing to Relocate:** Yes
 * 💻 **Remote Work:** Open to remote roles globally
 * 📍 **Current Location:** Dhaka, Bangladesh — flexible to accommodate other time zones
@@ -17,9 +21,6 @@ I am a full-stack software engineer with advanced knowledge in DevOps. I special
 | Testing & Quality | PHPUnit (for PHP), Unit & Integration Testing, CI/CD pipelines |
 | Other | REST APIs, GraphQL, S3, Packer, CloudFormation / Terraform, Security & Cost Optimization |
 
-### 🚀 Career Status: **Open to Work**
-
-I am actively exploring opportunities as a **Full-Stack Engineer, Backend Developer, or DevOps Engineer**. I’m eager to contribute my skills in a challenging environment where I can create meaningful impact while continuously learning and growing.
 
 ### How to Reach Me  
 
