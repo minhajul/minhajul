@@ -1,6 +1,5 @@
 ## Hi 👋, I’m Md Minhajul Islam
 
-### About Me  
 I’m a full-stack Software Developer with a strong foundation in **PHP/Laravel, JavaScript, Node.js, Golang**, and **Next.js**, and practical experience working with **AWS, Docker, Terraform** and scalable architectures.  
 I enjoy building robust backend systems, scalable cloud infrastructure, and performant web applications.  
 
@@ -25,11 +24,9 @@ I am currently actively looking for new opportunities as a **Software Engineer**
 
 ### How to Reach Me  
 
+If you have an opportunity that matches my skills, or just want to discuss tech, feel free to reach out.
+
 - 🌐 [Website / Portfolio — minhajul.info](https://www.minhajul.info)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/minhajul52)  
 - 🐦 [Twitter: @minhaj_cse](https://twitter.com/minhaj_cse)  
 
----
-
-Thanks for stopping by 👇  
-If you like what you see — feel free to connect or drop me a message 😊  
