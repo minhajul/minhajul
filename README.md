@@ -1,6 +1,6 @@
 ## Hi 👋, I’m Md Minhajul Islam
 
-Full-Stack Engineer with a DevOps Mindset. I specialize in building scalable, distributed applications using **PHP/Laravel/Livewire, Python/Django, JavaScript, Node.js**, and **Next.js**. I also have hands-on experience in DevOps tools, including **Docker, Kubernetes, Pulumi, Terraform, Grafana, Prometheus**, and **Ansible** to ensure reliability and scale on **AWS**.
+Full-Stack Engineer with a DevOps Mindset. I specialize in building scalable, distributed applications using **PHP/Laravel/Livewire, Python/Django, JavaScript, Node.js**, and **Next.js**. I complement this with hands-on experience in DevOps tools, including **Docker, Kubernetes, Pulumi, Terraform, Grafana, Prometheus**, and **Ansible** to ensure reliability and scale on **AWS**.
 
 ### 🚀 Career Status: **Open to Work**
 
