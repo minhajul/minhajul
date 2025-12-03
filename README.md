@@ -1,6 +1,6 @@
 ## Hi 👋, I’m Md Minhajul Islam
 
-I am a full-stack software engineer with advanced knowledge in DevOps. I specialize in developing scalable applications using **PHP/Laravel/Livewire, Python/Django, Javascript, Node.js** and **Next.js**. I have hands-on experience with DevOps tools, including **Docker, Kubernetes, Pulumi, Terraform, Grafana, prometheus, Ansible** to streamline development, deployment, and scaling processes on **AWS**. My experience also includes designing distributed systems and microservices.
+I am a full-stack software engineer with advanced knowledge in DevOps. I specialize in developing scalable applications using **PHP/Laravel/Livewire, Python/Django, Javascript, Node.js** and **Next.js**. I have hands-on experience with DevOps tools, including **Docker, Kubernetes, Pulumi, Terraform, Grafana, Prometheus, Ansible** to streamline development, deployment, and scaling processes on **AWS**. My experience also includes designing distributed systems and microservices.
 
 ### 🚀 Career Status: **Open to Work**
 
@@ -15,12 +15,12 @@ I am actively exploring opportunities as a **Full-Stack Engineer, Backend Develo
 | Domain | Technologies & Concepts |
 | :--- | :--- |
 | **Languages** | PHP, Python, JavaScript, TypeScript |
-| **Frameworks** | Laravel, Django, Node.js, Next.js |
+| **Frameworks** | Laravel, Django, Node.js, Next.js, Tailwind CSS |
 | **Cloud (AWS)** | EC2, ECS, Lambda, Auto-Scaling, ALB/ELB, CloudFront, CloudFormation, VPC, Transit Gateway, Route 53, API Gateway, KMS, WAF, Shield, S3, CloudWatch |
 | **DevOps** | Docker, Kubernetes, Terraform, Pulumi, Packer, Ansible, CI/CD Pipelines |
-| **Databases** | PostgreSQL, MySQL, Redis (Caching/Queues) |
+| **Databases** | MySQL, PostgreSQL, Redis (Caching/Queues) |
 | **Architecture** | Microservices, Distributed Queues, Load Balancing, REST & GraphQL APIs |
-| **Observability** | Prometheus, Grafana, OpenTelemetry |
+| **Observability** | Prometheus, Grafana, Loki |
 
 ### How to Reach Me  
 
