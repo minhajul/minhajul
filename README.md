@@ -10,17 +10,17 @@ I am actively exploring opportunities as a **Full-Stack Engineer, Backend Develo
 * 💻 **Remote Work:** Open to remote roles globally
 * 📍 **Current Location:** Dhaka, Bangladesh — flexible to accommodate other time zones
 
-### My Tech Stack & Skills  
+### Tech Stack & Architecture
 
-| Category | Skills / Tools |
-|---------|----------------|
-| Languages | PHP, Python, JavaScript, TypeScript |
-| Frameworks / Platforms | Laravel, Django, Node.js, Next.js |
-| DevOps / Cloud | AWS (EC2, S3, CloudFront, IAM, KMS, Lambda), Docker, Terraform, Redis, PostgreSQL, MySQL |
-| Infrastructure & Architecture | Microservices, Distributed Queues, Load Balancing, Auto-Scaling, Observability (Prometheus / Grafana / OpenTelemetry) |
-| Testing & Quality | PHPUnit (for PHP), Unit & Integration Testing, CI/CD pipelines |
-| Other | REST APIs, GraphQL, S3, Packer, CloudFormation / Terraform, Security & Cost Optimization |
-
+| Domain | Technologies & Concepts |
+| :--- | :--- |
+| **Languages** | PHP, Python, JavaScript, TypeScript |
+| **Frameworks** | Laravel, Django, Node.js, Next.js |
+| **Cloud (AWS)** | EC2, ECS, Lambda, Auto-Scaling, ALB/ELB, CloudFront, CloudFormation, VPC, Transit Gateway, Route 53, API Gateway, KMS, WAF, Shield, S3, CloudWatch |
+| **DevOps** | Docker, Kubernetes, Terraform, Pulumi, Packer, Ansible, CI/CD Pipelines |
+| **Databases** | PostgreSQL, MySQL, Redis (Caching/Queues) |
+| **Architecture** | Microservices, Distributed Queues, Load Balancing, REST & GraphQL APIs |
+| **Observability** | Prometheus, Grafana, OpenTelemetry |
 
 ### How to Reach Me  
 
