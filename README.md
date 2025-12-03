@@ -1,18 +1,17 @@
 ## Hi 👋, I’m Md Minhajul Islam
 
-I’m a full-stack Software Developer with a strong foundation in **PHP/Laravel, JavaScript, Node.js, Golang**, and **Next.js**, and practical experience working with **AWS, Docker, Terraform** and scalable architectures.  
-I enjoy building robust backend systems, scalable cloud infrastructure, and performant web applications.  
+I am a full-stack software engineer with advanced knowledge in DevOps. I specialize in developing scalable applications using **PHP/Laravel/Livewire, Python/Django, Javascript, Node.js** and **Next.js**. I have hands-on experience with DevOps tools, including **Docker, Kubernetes, Pulumi, Terraform, Grafana, prometheus, Ansible** to streamline development, deployment, and scaling processes on **AWS**. My experience also includes designing distributed systems and microservices.
 
 * 🌍 **Willing to Relocate:** Yes
 * 💻 **Remote Work:** Open to remote roles globally
-* 📍 **Current Location:** Dhaka, Bangladesh
+* 📍 **Current Location:** Dhaka, Bangladesh — flexible to accommodate other time zones
 
 ### My Tech Stack & Skills  
 
 | Category | Skills / Tools |
 |---------|----------------|
-| Languages | PHP, JavaScript (ES6+), TypeScript, Go, Python |
-| Frameworks / Platforms | Laravel, Next.js, Node.js, Django |
+| Languages | PHP, Python, JavaScript, TypeScript |
+| Frameworks / Platforms | Laravel, Django, Node.js, Next.js |
 | DevOps / Cloud | AWS (EC2, S3, CloudFront, IAM, KMS, Lambda), Docker, Terraform, Redis, PostgreSQL, MySQL |
 | Infrastructure & Architecture | Microservices, Distributed Queues, Load Balancing, Auto-Scaling, Observability (Prometheus / Grafana / OpenTelemetry) |
 | Testing & Quality | PHPUnit (for PHP), Unit & Integration Testing, CI/CD pipelines |
@@ -20,13 +19,13 @@ I enjoy building robust backend systems, scalable cloud infrastructure, and perf
 
 ### 🚀 Career Status: **Open to Work**
 
-I am currently actively looking for new opportunities as a **Software Engineer**. I am eager to apply my skills in a challenging environment where I can drive impact and continue learning.
+I am actively exploring opportunities as a **Full-Stack Engineer, Backend Developer, or DevOps Engineer**. I’m eager to contribute my skills in a challenging environment where I can create meaningful impact while continuously learning and growing.
 
 ### How to Reach Me  
 
 If you have an opportunity that matches my skills, or just want to discuss tech, feel free to reach out.
 
-- 🌐 [Website / Portfolio — minhajul.info](https://www.minhajul.info)  
+- 🌐 [Portfolio — minhajul.info](https://www.minhajul.info)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/minhajul52)  
 - 🐦 [Twitter: @minhaj_cse](https://twitter.com/minhaj_cse)  
 
