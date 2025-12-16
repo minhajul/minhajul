@@ -14,8 +14,8 @@ I am actively exploring opportunities as a **Full-Stack Engineer, Backend Develo
 
 | Domain | Technologies & Concepts |
 | :--- | :--- |
-| **Languages** | PHP, Python, JavaScript, TypeScript |
-| **Frameworks** | Laravel, Django, Node.js, Next.js, Tailwind CSS |
+| **Languages** | PHP, Python, JavaScript |
+| **Frameworks** | Laravel, Django, Node.js, Next.js, Alpine.js, Tailwind CSS |
 | **Cloud (AWS)** | EC2, ECS, Lambda, Auto-Scaling, ALB/ELB, CloudFront, CloudFormation, VPC, Transit Gateway, Route 53, API Gateway, KMS, WAF, Shield, S3, CloudWatch |
 | **DevOps** | Docker, Kubernetes, Terraform, Pulumi, Packer, Ansible, CI/CD Pipelines |
 | **Databases** | MySQL, PostgreSQL, Redis (Caching/Queues) |
